@@ -13,14 +13,11 @@ https://ourcodingclub.github.io/2017/04/26/time.html
 
 `time_series_script.R` contains all the code in the tutorial and can be used as a quick reference.
 
+'time_series_scriptco2loa.R' contains the code to forecast using the CO2 Concentration data.
 
 For more Coding Club tutorials and resources, please see 
 https://ourcodingclub.github.io/
 
-We would love to hear your feedback on the tutorial, whether you did it at a Coding Club workshop or online: 
-https://www.surveymonkey.co.uk/r/26V3WTJ
-
-Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
